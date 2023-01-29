@@ -6,3 +6,5 @@
 # :hammer: Tednologias utilizadas
 * `HTML`
 * `CSS`
+
+Visualize o projeto aqui: https://aluraplus-guacirita.vercel.app/
